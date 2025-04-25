@@ -31,7 +31,7 @@ Using a dataset of pull requests and associated metadata, this notebook explores
    - Feature selection
 
 3. **Modeling**  
-   - Models used: Decision Tree, SVM, Naive Bayes, Random Forest, AdaBoost  
+   - Models used: Decision Tree, Naive Bayes, Random Forest, AdaBoost  
    - Cross-validation and hyperparameter tuning with GridSearchCV
 
 4. **Evaluation**  
