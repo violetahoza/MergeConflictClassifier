@@ -8,7 +8,7 @@ Using a dataset of pull requests and associated metadata, this notebook explores
 
 ## 📂 Files
 
-- `HozaVioletaMaria.ipynb` – The Jupyter notebook with all analysis and modeling steps.
+- `MergeConflicts.ipynb` – The Jupyter notebook with all analysis and modeling steps.
 - `MergeConflictsDataset.csv` – The dataset used (must be placed in the same directory).
 - `/images/merge_conflict_classifier/` – Folder where plots and figures are saved.
 
